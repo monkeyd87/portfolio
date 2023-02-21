@@ -1,0 +1,10 @@
+.App{
+    background-color: rgb(32, 32, 32);
+    
+}
+
+.skill-text{
+    width:1px;
+    word-wrap: break-word;
+    white-space:pre-wrap;    
+}
