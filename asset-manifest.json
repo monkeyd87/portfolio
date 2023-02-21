@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f6872ed4.css",
+    "main.js": "/portfolio/static/js/main.44b32d9f.js",
+    "static/js/787.63e47474.chunk.js": "/portfolio/static/js/787.63e47474.chunk.js",
+    "static/media/vecteezy_25-universal-business-icons-vector-creative-icon_13458403.jpg": "/portfolio/static/media/vecteezy_25-universal-business-icons-vector-creative-icon_13458403.a2f0940ae46afea2d8a3.jpg",
+    "static/media/Me.jpeg": "/portfolio/static/media/Me.b57e68861d3864623ac4.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.f6872ed4.css.map": "/portfolio/static/css/main.f6872ed4.css.map",
+    "main.44b32d9f.js.map": "/portfolio/static/js/main.44b32d9f.js.map",
+    "787.63e47474.chunk.js.map": "/portfolio/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6872ed4.css",
+    "static/js/main.44b32d9f.js"
+  ]
+}
