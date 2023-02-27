@@ -96,6 +96,13 @@ const projects = [
         github_link:'https://github.com/monkeyd87/aesthete' ,
         deployed_link:'https://murmuring-inlet-34782.herokuapp.com/',
     },
+    {
+        title: 'yugiodeckbuilder',
+        img:require('../src/image/yugiodeckbuilder.png'),
+        technologies_used:"Javascript, React, Bootstrap,",
+        github_link:'https://github.com/monkeyd87/yugiodeckbuilder',
+        deployed_link: "https://monkeyd87.github.io/yugiodeckbuilder"
+    }
 ]
 
 
