@@ -15,7 +15,7 @@ export default function Projects(){
         <>
         <h1 className='text-light text-center '>Projects</h1>
         <div className='container'>
-         <div className='d-flex flex-wrap border-top border-bottom w-100 justify-content-between p-10  ' id='project'>{progectitems}</div>
+         <div className='d-flex flex-wrap border-top border-bottom w-100 justify-content-start p-10  ' id='project'>{progectitems}</div>
         </div>
          
         </>

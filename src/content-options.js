@@ -48,46 +48,12 @@ const projects = [
         deployed_link: 'https://onlycooks.herokuapp.com/',
     },
     {
-        title: 'Weather App',
-        img: require('../src/image/weather.png'),
-        technologies_used: 'HTML, CSS, JavaScript',
-        github_link:'https://github.com/monkeyd87/weatherapp' ,
-        deployed_link:'https://monkeyd87.github.io/weatherapp/',
-    },
-    {
-        title: 'Quiz App',
-        img:require('../src/image/social_media_api.png'),
-        technologies_used: 'JavaScript,Html,CSS',
-        github_link:'https://github.com/monkeyd87/quizmatic' ,
-        deployed_link:'https://monkeyd87.github.io/quizmatic/',
-    },
-    {
-        title: 'Employee Tracker',
-        img:require('../src/image/employee_tracker.png'),
-        technologies_used: 'JavaScript,SQL',
-        github_link:'https://github.com/monkeyd87/Employee-Tracker' ,
-        deployed_link:null,
-    },
-    {
-        title: 'To do list',
-        img:require('../src/image/calender.png'),
-        technologies_used: 'JavaScript,HTML,CSS',
-        github_link:'https://github.com/monkeyd87/calender/deployments/activity_log?environment=github-pages',
-        deployed_link:'https://monkeyd87.github.io/calender/',
-    },
-    {
-        title: 'pizzaHunt',
-        img:require('../src/image/pizza.png'),
-        technologies_used: 'JavaScript,MongoDB,Mongoose',
-        github_link:null ,
-        deployed_link:null,
-    },
-    {
-        title: 'Social Media API',
-        img:require('../src/image/social_media_api.png'),
-        technologies_used: 'JavaScript,MongoDB',
-        github_link:'https://github.com/monkeyd87/-Social_Network-_API' ,
-        deployed_link:null,
+        title:"harvest haeven",
+        img:require('../src/image/harvasetHaeven1.png'),
+        technologies_used: 'HTML, CSS, JavaScript, React, Node, MongoDB',
+        github_link: 'https://github.com/zuetesei/cook-book',
+        deployed_link: 'https://onlycooks.herokuapp.com/',
+
     },
     {
         title: 'Aesthete',
@@ -97,12 +63,27 @@ const projects = [
         deployed_link:'https://murmuring-inlet-34782.herokuapp.com/',
     },
     {
+        title:"Driddit",
+        img:require('../src/image/driddit.png'),
+        technologies_used: 'HTML, CSS, JavaScript, React, Node',
+        github_link: 'https://github.com/monkeyd87/driddit',
+        deployed_link: 'monkeyd87.github.io/driddit',
+    },
+    {
         title: 'yugiodeckbuilder',
         img:require('../src/image/yugiodeckbuilder.png'),
         technologies_used:"Javascript, React, Bootstrap,",
         github_link:'https://github.com/monkeyd87/yugiodeckbuilder',
         deployed_link: "https://monkeyd87.github.io/yugiodeckbuilder"
-    }
+    },
+    {
+        title: 'Weather App',
+        img: require('../src/image/weather.png'),
+        technologies_used: 'HTML, CSS, JavaScript',
+        github_link:'https://github.com/monkeyd87/weatherapp' ,
+        deployed_link:'https://monkeyd87.github.io/weatherapp/',
+    },
+   
 ]
 
 
